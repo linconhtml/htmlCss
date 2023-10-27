@@ -1,3 +1,41 @@
-body {
-    background-color: darkgreen;
-}
+
+
+
+/* smartphone portrait */ 
+
+
+/* smartphone landscape*/ 
+
+ @media (min-width: 576px)  {
+    body {
+        background-color: black;
+    }
+ }
+
+/* tablet portrait */ 
+@media (min-width: 768px)  {
+    body {
+        background-color: chartreuse;
+    }
+ }
+
+/* tablet landscape */ 
+@media (min-width: 992px)  {
+    body {
+        background-color: blueviolet ;
+    }
+ }
+
+/* pc */ 
+@media (min-width: 1200px)  {
+    body {
+        background-color: blue ;
+    }
+ }
+
+
+
+
+
+
+
